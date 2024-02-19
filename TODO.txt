@@ -1,0 +1,34 @@
+* = Finished
+
+CustomerController
+    createCustomer*
+    updateCustomer*
+    updateCustomerDetails*
+    authenticate*
+    getCustomers* 
+    searchCustomersByName*
+    searchCustomerByNik*
+    searchCustomerByPhoneNumber*
+    getCustomerById*
+    getCustomerByPhone*
+    getStatusByPhone*
+
+AccountController
+    createSavingAccount
+    createLoanAccount -> pram
+    createBnplAccount -> pram
+    updateLoanInstanceParameter -> pram
+    updateLoanStatus -> pram
+    getCustomersAndAccount -> pram
+    getAccountSchedule -> pram
+    getAccountDetail -> edbert
+    searchCustomerNameAndAccountType -> warren* kurang account type
+    searchCustomerNikAndAccountType -> warren 
+    searchCustomerAccountNumberAndAccountType -> warren
+    getAccountCustomersById*
+    getAccountCustomersByAccountNumber*
+    createNote*
+    getNote*
+    updateNote*
+    deleteNote*
+    checkAccountStatus -> edbert
